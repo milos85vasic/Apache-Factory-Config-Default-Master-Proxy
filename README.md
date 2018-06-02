@@ -1,3 +1,3 @@
-# Apache Factory Config Default
+# Apache Factory Config Default Master Proxy
 
-Default configuration for Apache HTTPD distributed by Apache Factory.
+Default configuration for Apache HTTPD master proxy distributed by Apache Factory.
