@@ -69,7 +69,7 @@ LoadModule proxy_hcheck_module modules/mod_proxy_hcheck.so
 #LoadModule session_cookie_module modules/mod_session_cookie.so
 #LoadModule session_crypto_module modules/mod_session_crypto.so
 #LoadModule session_dbd_module modules/mod_session_dbd.so
-#LoadModule slotmem_shm_module modules/mod_slotmem_shm.so
+LoadModule slotmem_shm_module modules/mod_slotmem_shm.so
 #LoadModule ssl_module modules/mod_ssl.so
 #LoadModule lbmethod_byrequests_module modules/mod_lbmethod_byrequests.so
 #LoadModule lbmethod_bytraffic_module modules/mod_lbmethod_bytraffic.so
